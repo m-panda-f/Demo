@@ -1,0 +1,14 @@
+body{
+    background-color: yellowgreen;
+}
+div{
+    width: 100px;
+    height: 40px;
+    display: inline-table;
+    position:fixed;
+    top: 225px;
+    right: 20px;
+    background-color: aquamarine;
+    text-align: center;
+    border: solid black;
+}
